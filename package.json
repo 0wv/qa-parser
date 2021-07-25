@@ -1,0 +1,8 @@
+{
+  "name": "@0wv/qa-parser",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/0wv/qa-parser.git",
+  "author": "0wv <w32w64@gmail.com>",
+  "license": "MIT"
+}
