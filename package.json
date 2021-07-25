@@ -4,5 +4,9 @@
   "main": "dist/index.js",
   "repository": "https://github.com/0wv/qa-parser.git",
   "author": "0wv <w32w64@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8"
+  }
 }
