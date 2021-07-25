@@ -9,6 +9,7 @@
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
     "@babel/preset-env": "^7.14.8",
+    "@rollup/plugin-node-resolve": "^13.0.4",
     "rollup": "^2.54.0"
   }
 }
